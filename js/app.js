@@ -1,1 +1,0 @@
-alert('THIS is the WAY!');
